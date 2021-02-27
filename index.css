@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Josefin+Sans:wght@500&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+span.navbar-text-custom{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 25px;
+}
+.content{
+margin-bottom: 16px;
+color: #000;
+font-weight: 500;
+}
+.background{
+    background-image: url(/src/images/pic1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 40%;
+}
+.customisasi-row{
+    padding-top: 82px;
+}
+
+.customisasi-card{
+    background-color: #fae1d9;
+    border-style: none;
+    border-radius: 0px !important;
+}
+.customisasi-card h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+}
+.customisasi-card-body{
+    padding: 60px !important;
+}
+.customisasi-card-card{
+    border-radius: 0px !important;
+    border-style: none;
+}
+.yang-ini p{
+    font-weight: 600;
+}
+.yang-itu p{
+    font-weight: 300;
+}
+footer{
+    padding-top: 30px;
+}
+.footer-custom{
+    
+}
