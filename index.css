@@ -10,9 +10,9 @@ color: #000;
 font-weight: 500;
 }
 .background{
-    background-image: url(/src/images/pic1.png);
+    background-image: url(/src/images/IMG_20191003_185309-removebg-preview.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: center;
     padding: 40%;
 }
@@ -47,4 +47,7 @@ footer{
 }
 .footer-custom{
     
+}
+.customisasi-container{
+    margin-top: 20px;
 }
